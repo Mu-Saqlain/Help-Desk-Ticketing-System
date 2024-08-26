@@ -1,0 +1,27 @@
+﻿body {
+    background-color: white;
+}
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 100px; 
+    height: auto; 
+}
+
+.card-header img.logo {
+    width: 50px;
+    height: auto;
+}
+
+.btn-primary {
+    background-color: #28a745; 
+    border-color: #28a745; 
+    color: white; 
+}
+
+.btn-primary:hover {
+     background-color: #218838;
+     border-color: #1e7e34;
+}
